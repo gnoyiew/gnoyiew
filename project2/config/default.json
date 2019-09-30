@@ -1,0 +1,9 @@
+{
+    "database": {
+        "host": "120.118.214.43",
+        "user": "gnoy",
+        "password": "gnoy",
+        "port": "3306",
+        "database": "data"
+    }
+}
